@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 # Docx to PDF Converter App
 
 This is a simple web application built with React.js, Node.js, and Vite that allows users to convert DOCX files to PDF format. The app utilizes the **Multer** middleware for file uploads, **Docx to Pdf** npm library for efficient conversion, and **Tailwind CSS** for styling.
@@ -50,10 +50,6 @@ Before you begin, ensure you have met the following requirements:
 4. **Wait for the conversion process to complete**
 5. **Download the converted PDF file**
 
-## Contributing
-
-Contributions are welcome! Please feel free to submit a pull request or open an issue if you encounter any bugs or have any suggestions for improvements.
-=======
 # Word-to-PDF
 Web application project for rapid fort
 
@@ -96,5 +92,3 @@ Web application project for rapid fort
 2. Click "Convert File" to start the conversion.
 3. Download the converted PDF by clicking on the download button.
 
-
->>>>>>> 3a75a2868596ba41999b31a64dab1ed60e4cb505
